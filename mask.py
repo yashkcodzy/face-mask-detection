@@ -17,7 +17,7 @@ font = cv2.FONT_HERSHEY_SIMPLEX
 org = (1,1)
 class_label = ''
 fontScale = 1
-color = (255,0,0)
+color = (255,122,0)
 thickness = 2
 
 while True:
